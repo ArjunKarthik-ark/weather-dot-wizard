@@ -1,0 +1,16 @@
+.text-slider {
+    display: none;
+    padding: 60px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+
+@media (max-width: 768px){
+
+.text-slider{
+    font-size: 12px;
+    padding: 10px;
+}
+
+}
